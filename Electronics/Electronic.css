@@ -1,0 +1,14 @@
+.Electronic-sub-card{
+    padding-top: 110px;
+}
+.Electronic-sub-card img{
+    margin-left: 60px;
+    flex: 1 1  110px;
+    max-width: 110px;
+}
+.Electronic img{
+    width:100%;
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 10px;
+}
